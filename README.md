@@ -48,17 +48,17 @@ This project is designed to **demonstrate GitHub Copilot Agents**
 2. Enable **Copilot Agents** via  
    `Tools → Options → GitHub → Copilot → Enable Copilot Agents`.
 3. Run the project (`Program.cs`) to trigger sample outputs.
-4. Use **Agent Picker** (`Ctrl + /`) or **Copilot Chat** to demo:
+4. Use **Agent Picker** (`Ctrl + /`) or **Copilot Chat** to performing:
    - Debugging exceptions
    - Profiling performance
    - Generating unit tests
 
 ---
 
-## ✅ Demo Flow
-1. **Show Debugger Agent** analyzing `UserProcessor.PrintUser()`.
-2. **Show Profiler Agent** optimizing `MathUtils.PrimeFactors()`.
-3. **Show Test Agent** generating unit tests for `OrderProcessor`.
+## ✅ Flow
+1. **Debugger Agent** analyzing `UserProcessor.PrintUser()`.
+2. **Profiler Agent** optimizing `MathUtils.PrimeFactors()`.
+3. **Test Agent** generating unit tests for `OrderProcessor`.
 
 ---
 
