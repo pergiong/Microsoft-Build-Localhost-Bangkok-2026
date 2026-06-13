@@ -83,4 +83,4 @@ This demo illustrates how GitHub Copilot enhances developer productivity:
 - **@profiler** → Performance insights & optimizations  
 - **@test** → Automated unit test generation  
 
-Perfect for presentations, workshops, and live demos.
+Sivaphong Niyomphanich (presentations, workshops, and live demos.)
