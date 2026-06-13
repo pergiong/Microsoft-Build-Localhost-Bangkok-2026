@@ -8,11 +8,13 @@ This project is designed to **demonstrate GitHub Copilot Agents**
 ---
 
 ## 📂 Project Structure
+```
 ComplexDemo/
 ├── Program.cs          // Entry point
 ├── UserProcessor.cs    // Debugger demo (exceptions)
 ├── MathUtils.cs        // Profiler demo (inefficient loop)
 └── OrderProcessor.cs   // Test demo (business logic)
+```
 
 ---
 
